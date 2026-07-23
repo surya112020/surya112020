@@ -27,6 +27,16 @@ AI/ML Engineer with **4+ years of experience** building production-grade Machine
 
 ---
 
+### 🔬 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Cognitive GraphRAG**](https://github.com/surya112020/cognitive-graphrag) | Multi-Agent GraphRAG Knowledge Visualizer — hybrid vector + graph retrieval with self-correcting reasoning loop, FastAPI backend, and interactive D3.js network UI. |
+| [**AI/ML Portfolio**](https://github.com/surya112020/ai-ml-portfolio) | Interactive portfolio with live **RAG Simulator**, **LoRA Parameter Calculator**, and **Document Intelligence Pipeline** demos. [🔗 Live Demo](https://surya112020.github.io/ai-ml-portfolio/) |
+| [**JobFlow AI**](https://github.com/surya112020/jobflow-ai) | AI-powered job search platform with LinkedIn scraping, LLM-based relevance scoring, resume tailoring, and smart outreach generation. |
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <table>
